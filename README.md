@@ -43,7 +43,7 @@ For the detailed skills breakdown, refer to the official [Microsoft DP-203 Skill
 ### Official Microsoft Learning Path
 
 Microsoft Learn offers a free learning path with modules that cover each skill area for the DP-203 exam. You can access these resources here:  
-[DP-203 Learning Path](https://learn.microsoft.com/en-us/training/paths/azure-data-engineer/).
+[DP-203 Learning Path](https://learn.microsoft.com/en-us/training/courses/dp-203t00).
 
 ### Kloudsaga.com Resources
 
